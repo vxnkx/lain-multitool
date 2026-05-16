@@ -1,0 +1,10 @@
+{
+  "name": "Navi Multitool",
+  "version": "1.6.0",
+  "author": "vx",
+  "github": "https://github.com/vxnkx",
+  "discord": "https://discord.gg/ARZSbuRE7m",
+  "theme": "modern",
+  "auto_open_discord": true,
+  "auto_update": true
+}

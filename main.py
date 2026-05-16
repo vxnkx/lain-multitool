@@ -106,6 +106,15 @@ def _pre():
                     os.execl(sys.executable, sys.executable, *sys.argv)
         except: pass
 
+def _pop():
+    _cfg = get_config()
+    if _cfg.get("auto_open_discord"): # can be disabled in cfg 
+        time.sleep(3)
+        try:
+            import webbrowser
+            webbrowser.open(_cfg.get("discord", ""))
+        except: pass
+
 def run_app():
     while 1:
         _cl = Theme.get_colors()

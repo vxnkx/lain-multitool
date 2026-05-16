@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>IN COLLABERATION WITH CRAZYLUMA</b>
+  <b>IN COLLABERATION WITH CRAZYLUMA</b>, 
   <b>LainMT</b> is a premium, high-performance terminal multitool designed for efficiency, security testing, and OSINT exploration. Featuring a state-of-the-art <b>Modern UI</b> and a vast array of specialized modules.
   if your wondering why the name changes to lain/navi, its because i named aliases for security purposes.
 </p>

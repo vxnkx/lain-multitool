@@ -3,7 +3,10 @@
   "version": "1.6.0",
   "author": "vx",
   "github": "https://github.com/vxnkx",
-  "discord": "https://discord.gg/ARZSbuRE7m",
+  "discord": [
+    "https://discord.gg/ARZSbuRE7m",
+    "https://guns.lol/kxpz"
+  ],
   "theme": "modern",
   "auto_open_discord": true,
   "auto_update": true
